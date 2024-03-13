@@ -302,10 +302,14 @@
             opacity: 1; /* Hace que la descripción aparezca cuando se pasa el cursor por encima */
         }
 
+        .video{
+            border-radius: 20px;
+        }
+
         /* *********************/
         /* seccion S E R V I C I O S */
         /* *********************/
-        
+    
         
         /* *********************/
         /* seccion S K I L L S */
