@@ -15,9 +15,11 @@
         
         #inicio {
             background: linear-gradient( rgba(0, 0, 0, .7), rgba(0, 0, 0, .7)), url("img/jamzul.jpg");
-            background-size: cover;
+            background-size: contain;;
             background-position: center center;
-            height: 100vh;
+                background-repeat: no-repeat;
+           height: auto;
+    min-height: 100vh;
         }
         
         #inicio .contenido header {
