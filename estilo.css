@@ -13,12 +13,12 @@
         /* seccion I N I C I O */
         /* *********************/
         
-   #inicio {
-            background: linear-gradient( rgba(0, 0, 0, .7), rgba(0, 0, 0, .7)), url("img/jamzul.jpg");
-            background-size: cover;
-            background-position: center center;
-            height: 100vh;
-        }
+#inicio {
+    background: linear-gradient(rgba(0, 0, 0, .7), rgba(0, 0, 0, .7)), url("img/jamzul.jpg");
+    background-size: cover;
+    background-position: center center;
+    height: 100vh;
+}
         
         #inicio .contenido header {
             background-color: rgba(0, 0, 0, .8);
